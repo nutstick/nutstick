@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Nuttapat Kirawittaya (nutstick) and I'm fronend developer. I'm from Thailand, and currently working at Shopee, Singapore as a react-native developer
+
+https://nutstick.dev/
 
 <!--
 **nutstick/nutstick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
