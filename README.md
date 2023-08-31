@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nuttapat Kirawittaya (nutstick) and I'm fronend developer. I'm from Thailand, and currently working at Shopee, Singapore as a react-native developer
+My name is Nuttapat Kirawittaya (nutstick) and I'm fronend developer. I'm from Thailand, and currently working at FEE, AWS Payments, Vancouver, Canada as a frontend developer.
 
 https://nutstick.dev/
 
